@@ -1,4 +1,4 @@
-### Advance_Computer_Vision_PY
+### Advance_Computer_Vision
 
 
 Face_Detection_project <br>
